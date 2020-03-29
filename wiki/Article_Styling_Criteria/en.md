@@ -18,6 +18,7 @@ Listed below are the properly-supported locales for the osu! wiki. The file name
 
 | File Name | Locale Name | Native Script |
 | :-- | :-- | :-- |
+| `ar.md` | Arabic | العربية |
 | `en.md` | English | English |
 | `be.md` | Belarusian | Беларуская мова |
 | `bg.md` | Bulgarian | Български |
